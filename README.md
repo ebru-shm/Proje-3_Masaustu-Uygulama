@@ -1,4 +1,4 @@
-# Proje-3_Masaustu-Uygulama
+# Proje-3_Masaüstü-Uygulama
 
 ## Uygulama Giriş Ekranı
 
